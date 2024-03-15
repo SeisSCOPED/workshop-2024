@@ -32,6 +32,7 @@ people:
       - Organizer Lead
       - Tutorial Lead
 
+
   # =============
   - title: Yiyu Ni
     avatar: https://avatars.githubusercontent.com/niyiyu
@@ -49,8 +50,9 @@ people:
     user_groups:
       - Teaching Assistant
       - Tutorial Lead
+
+
   # =============
-  
   - title: Ian Wang
     avatar: https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
     role: Manager of HPC Performance & Architectures
@@ -76,7 +78,6 @@ people:
 
 
   # =============
-  
   - title: Carl Tape
     avatar: #https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
     role: Professor
@@ -123,7 +124,6 @@ people:
 
 
   # =============
-  
   - title: Ebru Bozdag
     avatar: #https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
     role: Associate Professor
@@ -139,13 +139,12 @@ people:
 
 
   # =============
-  
   - title: Felix Waldhauser
     avatar: #https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
     role: Associate Professor
     organizations:
       - name: Columbia University
-    bio: Felix is an observational seismologist. His research focuses on precision seismology, ML workflows for end-2-end earhquake catalogs
+    bio: Felix is an observational seismologist. His research focuses on precision seismology, ML workflows for end-2-end earthquake catalogs
     expertise:
       - earthquake detection and location
       - precision observational seismology

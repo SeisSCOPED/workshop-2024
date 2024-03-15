@@ -1,5 +1,5 @@
 repo_directory: html
-name: NSF-SCOPED 2024 workshop on Seismology and CyberTraining
+name: NSF-SCOPED Workshop on Seismology and CyberTraining
 apply:
   url: 'https://forms.gle/HRFCSQRhVZL9ku1B7'
   title: Application 
@@ -28,10 +28,10 @@ about:
       title: A sample link
       new_window: True
 applicant_info: The SCOPED CyberTraining for Seismology will take place in May 2024. We aim to lower barriers to advance computing. More information about applicant's selection below
-team:
-  !include team.yaml
 schedule:
   !include schedule.yaml
+team:
+  !include team.yaml
 sponsors:
   description: ''
   organizations:
