@@ -1,23 +1,23 @@
 repo_directory: html
-name: UW Hackweek
+name: NSF-SCOPED 2024 workshop on Seismology and CyberTraining
 apply:
-  url: '#'
-  title: Application coming soon
-hackweek_mission: https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
+  url: 'https://forms.gle/HRFCSQRhVZL9ku1B7'
+  title: Application 
+hackweek_mission: ""# https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
 banner:
-  description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2023
-  location: Seattle, WA
+  description: CyberTraining for Seismology
+  start_date: Monday May 20
+  end_date: Friday May 24
+  year: 2024
+  location: Seattle, WA, and remote
 # Add a button link right under the top (e.g. JupyterBook, url can be local file or https://)
   links:
-  # - url: intro.html
-  #   title: Event Jupyter Book
-  #   new_window: false
+  - url: "https://seisscoped.org/HPS-book/intro.html"
+    title: HPS Jupyter Book
+    new_window: true
   image: https://geohackweek.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2024-08-07T08:30:00-07:00"
+event_countdown: "2024-05-20T09:00:00-07:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
@@ -27,8 +27,7 @@ about:
     - url: '#'
       title: A sample link
       new_window: True
-applicant_info: UW Hackweek 2023 will take place in October 2023 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2023.
+applicant_info: The SCOPED CyberTraining for Seismology will take place in May 2024. We aim to lower barriers to advance computing. More information about applicant's selection below
 team:
   !include team.yaml
 schedule:
@@ -39,11 +38,17 @@ sponsors:
   - name: eScience Institute
     website: ''
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
-footer:
+  - name: SCOPED
+    website: 'https://seisscoped.org/'
+    logo_url: https://github.com/SeisSCOPED/HPS/blob/main/assets/scoped_logo.jpg?raw=true
+  - name: University of Washington
+    website: 'https://www.ess.washington.edu/'
+    logo_url: https://github.com/SeisSCOPED/HPS/blob/main/assets/W-Logo_Purple_RGB.png?raw=truefooter
   social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/uwhackweek/
+    link: https://github.com/SeisSCOPED/
+
 _copy_without_render:
 - assets
 _extensions:
