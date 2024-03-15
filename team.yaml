@@ -7,170 +7,161 @@ description:
 # - user_groups correspond to hackweek roles defined here: https://uwhackweek.github.io/hackweeks-as-a-service/services/index.html
 # - For 'avatar' an easy option is to use the URL for your GitHub user image: https://api.github.com/users/YOUR_GITHUB_USERNAME
 people:
-  - title: Jessica Scheick
-    avatar: https://avatars.githubusercontent.com/u/11756442?v=4
-    role: Research Assistant Professor
+  - title: Marine Denolle
+    avatar: https://avatars.githubusercontent.com/mdenolle
+    role: Assistant Professor
     organizations:
-      - name: University of New Hampshire
-      - name: eScience
-    bio: Jessica is a glaciologist, remote sensing specialist, open science advocate and educator,
-      collaborative developer, open-source software contributor and maintainer, and community manager.
-      She enjoys weaving her many roles together to work with others to build software that makes it easier
-      for everyone to access and manipulate data, and she's especially fond of detecting icebergs.
-    expertise:
-      - open science
-      - collaborative development
-      - Python
-      - git
-      - GitHub
-      - glaciers
-      - ICESat-2/icepyx
-    social:
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/jessicas11
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/icesat2py
-    user_groups:
-      - Lead Hackweek Organizer
-      - Tutorial Lead
-      - Project Team Lead
-  # =============
-  - title: Anthony Arendt
-    avatar: https://avatars.githubusercontent.com/u/4993098?v=4?s=100
-    role: Senior Data Science Fellow
-    organizations:
-      - name: eScience Institute
-      - name: Applied Physics Laboratory
-    bio: Anthony is leading the eScience Institute's Hackweek-as-a-Service program.
-      He is an advocate for open, inclusive and collaborative science.
-      He has experience teaching GIS and has been the lead organizer for multiple earth-science themed hackweeks.
-      His background is in cryospheric science and remote sensing.
-    expertise:
-      - open science
-      - community building
-      - GIS
-      - SQL
-      - glaciers
-      - Python
-    social:
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/aaarendt
-    user_groups:
-      - Lead Hackweek Organizer
-  # =============
-  - title: Charley Haley
-    avatar: https://avatars.githubusercontent.com/u/70242677?v=4
-    role: Social Strategist and Collaboration Architect
-    organizations:
-      - name: Collaboration Architect at eScience Institute
-      - name: WayForagers
-        url: https://WayForagers.org
-    bio: I am passionate about all things that are in service to building collaborations, especially interdisciplinary ones.
-      I love building frameworks that make it easier for science groups (research, applied, data, stakeholders) to understand
-      each other and how they might fit together to address the larger, more complex science challenges that are impossible to
-      touch without a community of collaborators representing all angles & all perspectives.
-    expertise:
-      - Participatory Design and facilitation
-      - Structuring productive meetings & discussions
-      - Community development
-    user_groups:
-      - Lead Community Building
-  # =============
-  - title: Scott Henderson
-    avatar: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
-    role: Research Scientist
-    organizations:
-      - name: eScience Institute
-      - name: UW Earth and Space Sciences Department
-    bio: Scott is a research scientist and data science fellow at the University of Washington.
-      His research is focused on applications of synthetic aperture radar to understand geophysical processes.
-      Scott is excited about the potential for open source software and Cloud computing to enable more open and reproducible science.
-    expertise:
-      - InSAR
-      - Jupyter
-      - Python
-      - Cloud computing
-    social:
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/scottyhq
-    user_groups:
-      - Lead of Technology
-      - Tutorial Lead
-  # =============
-  - title: Don Setiawan
-    avatar: https://avatars.githubusercontent.com/u/17802172?v=4
-    role: Research Software Engineer
-    organizations:
-      - name: School of Oceanography
-        url: https://www.ocean.washington.edu/home/Don_Setiawan
       - name: University of Washington
-    bio: I am a Research Software Engineer at the University of Washington with a
-      strong focus in designing, developing, and maintaining scientific data analysis
-      systems. I am a contributor to various open source software. I learning new
-      technologies and apply them in my work.
+      - name: eScience
+    bio: Marine is an observational seismologist. 
+      Her research focuses on data mining large data sets and in ambient noise seismology. 
+      She teaches seismology, geophysics, and machine learning in the geosciences at UW.
     expertise:
-      - Geospatial Information Systems (GIS)
-      - Data Engineering / Data Science
-      - Software Engineering
-      - Web Development
-      - DevOps/GitOps
-      - Oceanography
-      - Python
+      - ambient noise seismology
+      - data workflows and pipelines
+      - Python, Julia
+      - git, GitHub
     social:
       - icon: github
         icon_pack: fab
-        link: https://github.com/lsetiawan
-    user_groups:
-      - Technology Specialist
-  # =============
-  - title: Naomi Alterman
-    avatar: https://escience.washington.edu/wp-content/uploads/2021/01/nlalterman.jpg
-    role: Education Consultant
-    organizations:
-      - name: eScience Institute
-    bio: >
-      Naomi is a Technical Education Specialist at the University of
-      Washington's eScience Institute. She has a background in electrical
-      engineering and computer science, but loves spending her time working on the
-      interface between complex domains of information, be they software, hardware,
-      or people.
-    expertise:
-      - Education and pedagogy
-      - Technical mentorship
-      - Python
-      - git
-      - Cloud computing
-    social:
+        link: https://github.com/mdenolle
       - icon: github
         icon_pack: fab
-        link: https://github.com/naclomi
+        link: https://github.com/Denolle-Lab
     user_groups:
-      - Education Consultant
+      - Organizer Lead
+      - Tutorial Lead
+
   # =============
-  - title: Joachim Meyer
-    avatar: https://avatars.githubusercontent.com/u/178649?v=4
+  - title: Yiyu Ni
+    avatar: https://avatars.githubusercontent.com/niyiyu
     role: Graduate Student
     organizations:
-      - name: University of Utah
-    bio: >
-      Joe is a graduate student at the University of Utah with a research focus
-      on snow hydrology and closing the gap between research and operations.
-      He has a background in software development and would love to see more
-      software development best practices, open source software, and open science
-      principles being adapted throughout the research community.
+      - name: University of Washington
+    bio: 
     expertise:
-      - Software Development
-      - Python
-      - git, GDAL, anything in the Terminal really ...
-      - Modeling
+      - ML in seismology
+      - Cloud computing
     social:
       - icon: github
         icon_pack: fab
-        link: https://github.com/jomey
+        link: https://github.com/niyiyu
     user_groups:
-      - Technology Specialist
+      - Teaching Assistant
+      - Tutorial Lead
   # =============
+  
+  - title: Ian Wang
+    avatar: https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
+    role: Manager of HPC Performance & Architectures
+    organizations:
+      - name: The University of Texas at Austin
+      - name: Texas Advanced Computing Center
+    bio: Ian is a seismologist and a computer scientist. 
+      His research focuses include seismic data processing, seismic imaging, HPC containers, and performance analysis and optimization on HPC systems.
+    expertise:
+      - signal processing
+      - receiver function
+      - high-performance computing
+      - containers
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/wangyinz
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/mspass-team
+    user_groups:
+      - Instructor
+
+
+  # =============
+  
+  - title: Carl Tape
+    avatar: #https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
+    role: Professor
+    organizations:
+      - name: University of Alaska - Fairbanks 
+    bio: Carl is a computational seismologist . 
+      His research focuses include global synthetics, full waveform inversion for earthquake sources, wave propagation in sedimentary basins.
+    expertise:
+      - wave propagation
+      - source characterization
+      - full waveform inversion
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/carltape
+      - icon: github
+        icon_pack: fab
+        link: https://specfem.org/
+    user_groups:
+      - Instructor
+
+
+
+  - title: Bryant Chow
+    avatar: https://github.com/bch0w/bch0w.github.io/blob/master/images/headshot.jpeg
+    role: Instructor for SPECFEM
+    organizations:
+      - name: University of Alaska Fairbanks
+    bio: Bryant is a computational seismologist. His research focuses on investigating Earth structure and tectonic processes by leveraging seismic data, software development and numerical modeling.
+    expertise:
+      - waveform simulation
+      - high-performance computing
+      - seismic imaging
+      - software development
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://bch0w.github.io
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/bch0w
+    user_groups:
+      - Instructor
+
+
+  # =============
+  
+  - title: Ebru Bozdag
+    avatar: #https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
+    role: Associate Professor
+    organizations:
+      - name: Colorado School of Mines
+    bio: Ebru is a computational seismologist . 
+      Her research focuses on global wave propagation and full waveform inverison for Earth and Mars Models
+    expertise:
+      - wave propagation
+      - full waveform inversion
+    social:
+      # - icon: github
+      #   icon_pack: fab
+      #   link: https://ebrucsm.wordpress.com/
+      # - icon: github
+      #   icon_pack: fab
+      #   link: https://specfem.org/
+    user_groups:
+      - Instructor
+
+
+  # =============
+  
+  - title: Felix Waldhauser
+    avatar: #https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
+    role: Associate Professor
+    organizations:
+      - name: Columbia University
+    bio: Felix is an observational seismologist. His research focuses on precision seismology, ML workflows for end-2-end earhquake catalogs
+    expertise:
+      - earthquake detection and location
+      - precision observational seismology
+    social:
+      # - icon: github
+      #   icon_pack: fab
+      #   link: https://ebrucsm.wordpress.com/
+      # - icon: github
+      #   icon_pack: fab
+      #   link: https://specfem.org/
+    user_groups:
+      - Instructor
