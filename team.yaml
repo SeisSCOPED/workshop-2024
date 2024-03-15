@@ -130,17 +130,10 @@ people:
     organizations:
       - name: Colorado School of Mines
     bio: Ebru is a computational seismologist . 
-      Her research focuses on global wave propagation and full waveform inverison for Earth and Mars Models
+      Her research focuses on global wave propagation and full waveform inversion for Earth and Mars Models
     expertise:
       - wave propagation
       - full waveform inversion
-    social:
-      # - icon: github
-      #   icon_pack: fab
-      #   link: https://ebrucsm.wordpress.com/
-      # - icon: github
-      #   icon_pack: fab
-      #   link: https://specfem.org/
     user_groups:
       - Instructor
 
@@ -156,12 +149,5 @@ people:
     expertise:
       - earthquake detection and location
       - precision observational seismology
-    social:
-      # - icon: github
-      #   icon_pack: fab
-      #   link: https://ebrucsm.wordpress.com/
-      # - icon: github
-      #   icon_pack: fab
-      #   link: https://specfem.org/
     user_groups:
       - Instructor

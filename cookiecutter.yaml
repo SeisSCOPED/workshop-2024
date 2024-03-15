@@ -44,6 +44,7 @@ sponsors:
   - name: University of Washington
     website: 'https://www.ess.washington.edu/'
     logo_url: https://github.com/SeisSCOPED/HPS/blob/main/assets/W-Logo_Purple_RGB.png?raw=truefooter
+footer:
   social:
   - icon: github
     icon_pack: fab
