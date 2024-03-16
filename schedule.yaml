@@ -31,11 +31,13 @@ tabs:
   - title: HPC 101
     description: Get started with high-performance computing 
     time: 14:00 - 15:00
-    leads: Ian Wang
+    leads: 
+    - Ian Wang
   - title: Cloud 101
     description: Get started with cloud computing 
     time: 15:00 - 16:00
-    leads: Marine Denolle, Yiyu Ni
+    leads: 
+    - Marine Denolle, Yiyu Ni
   - title: POSTER SESSION
     description: Group A presents their research projects at a poster session.
     time: 16:00 - 17:00
