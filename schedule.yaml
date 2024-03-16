@@ -41,12 +41,8 @@ tabs:
     description: Group A presents their research projects at a poster session.
     time: 16:00 - 17:00
     leads: null
-
-
-
-
 - title: Day 2
-  date: Tuesday 08 August
+  date: Tuesday 21 May
   contents:
   - title: Cloud data access and data formats
     description: Approaches for accessing and subsetting ICESat-2 data in a cloud
