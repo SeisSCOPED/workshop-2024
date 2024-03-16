@@ -24,7 +24,6 @@ tabs:
   - title: LUNCH
     description: Cohort building luncheon
     time: 12:00 - 13:00
-    leads: null
   - title: How to use academic software
     description: Best practice to use academic software and how to contribute to open source projects.
     time: 13:00 - 14:00
@@ -40,7 +39,6 @@ tabs:
   - title: POSTER SESSION
     description: Group A presents their research projects at a poster session.
     time: 16:00 - 17:00
-    leads: null
 - title: Day 2
   date: Tuesday 21 May
   contents:
@@ -51,7 +49,6 @@ tabs:
     leads:
     - Amy Steiker
   - title: BREAK
-    description: null
     time: 10:00 - 10:30
   - title: Open source development / Object Oriented Programming
     description: Best practices for collaborative coding and object oriented programming.
@@ -64,10 +61,8 @@ tabs:
     leads:
     - Anthony Arendt
   - title: LUNCH
-    description: null
     time: 12:00 - 13:00
   - title: OPEN PROJECT WORK
-    description: null
     time: 13:00 - 17:00
 - title: Day 3
   date: Wednesday 09 August
@@ -91,13 +86,10 @@ tabs:
     leads:
     - Tian LI
   - title: Group STAND-UP & OPEN PROJECT WORK
-    description: null
     time: 11:15 - 12:00
   - title: LUNCH
-    description: null
     time: 12:00 - 13:00
   - title: OPEN PROJECT WORK
-    description: null
     time: 13:00 - 17:00
 - title: Day 4
   date: Thursday 10 August
@@ -113,7 +105,6 @@ tabs:
     leads:
     - Younghyun Koo
   - title: BREAK
-    description: null
     time: 10:00 - 10:30
   - title: 'Applications: snow depth'
     description: Applications of ICESat-2 data to snow studies.
@@ -121,13 +112,10 @@ tabs:
     leads:
     - Karina Zikan
   - title: Group STAND-UP & OPEN PROJECT WORK
-    description: null
     time: 11:15 - 12:00
   - title: LUNCH
-    description: null
     time: 12:00 - 13:00
   - title: OPEN PROJECT WORK
-    description: null
     time: 13:00 - 17:00
 - title: Day 5
   date: Friday 11 August
