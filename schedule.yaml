@@ -3,35 +3,48 @@ tabs:
 - title: Day 1
   date: Monday 20 May
   contents:
-  - title: Introductory Session
+  - title: Introductory & Lightning Talks
     description: Welcome and getting to know each other.
-    time: 8:30 - 9:30
-    leads:
-    - Anthony Arendt
-  - title: CryoCloud
-    description: Getting connected to our shared computational resources.
     time: 9:00 - 10:00
     leads:
-    - Tasha Snow
-  - title: BREAK
-    description: null
-    time: 10:00 - 10:30
-  - title: Best Practices for Collaborative Development
-    description: null
-    time: 10:30 - 11:00
+    - Marine Denolle, Carl Tape, Ian Wang, Felix Waldhauser, Ebru Bozdag
+  - title: Best Practice for Open Science
+    description: Learn about best practices for big-data and big simulation seismological research, research reproducibility, and open science.
+    time: 10:00 - 10:50
     leads:
-    - Naomi Alterman
-  - title: ICESat-2 Mission Overview and Data
-    description: Summary of ICESat-2 datasets, algorithms and science applications.
+    - Marine Denolle, Ian Wang
+  - title: BREAK
+    description: Coffee break
+    time: 10:50 - 11:00
+  - title: Containerization 101
+    description: Learn how to containerized your code with the SCOPED platform and container registry.
     time: 11:00 - 12:00
     leads:
-    - Ben Smith
+    - Ian Wang
   - title: LUNCH
-    description: null
+    description: Cohort building luncheon
     time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
-    description: null
-    time: 13:00 - 17:00
+    leads: null
+  - title: How to use academic software
+    description: Best practice to use academic software and how to contribute to open source projects.
+    time: 13:00 - 14:00
+    leads: Ian Wang
+  - title: HPC 101
+    description: Get started with high-performance computing 
+    time: 14:00 - 15:00
+    leads: Ian Wang
+  - title: Cloud 101
+    description: Get started with cloud computing 
+    time: 15:00 - 16:00
+    leads: Marine Denolle, Yiyu Ni
+  - title: POSTER SESSION
+    description: Group A presents their research projects at a poster session.
+    time: 16:00 - 17:00
+    leads: null
+
+
+
+
 - title: Day 2
   date: Tuesday 08 August
   contents:
