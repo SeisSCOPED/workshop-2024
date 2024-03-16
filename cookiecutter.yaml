@@ -21,10 +21,10 @@ event_countdown: "2024-05-20T09:00:00-07:00"
 about:
   description: SCOPED is a NSF-supported CyberInfrastructure project to develop a software platform for high-performance seismology (HPS) with big-data analysis for earthquake characterization and Earth imaging. The workshop will bring all project researchers and users together to deploy large-scale codes on the cloud and HPC. Come join us to build an HPS community!
   learn_more: https://seisscoped.org/
-  links:
-    - url: '#'
-      title: A sample link
-      new_window: True
+  # links:
+    # - url: '#'
+      # title: A sample link
+      # new_window: True
 applicant_info: The SCOPED CyberTraining for Seismology will take place in May 2024. We aim to lower barriers to advance computing. More information about applicant's selection below
 schedule:
   !include schedule.yaml
