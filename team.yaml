@@ -29,8 +29,7 @@ people:
         icon_pack: fab
         link: https://github.com/Denolle-Lab
     user_groups:
-      - Organizer Lead
-      - Tutorial Lead
+      - Instructor
 
 
   # =============
@@ -48,8 +47,7 @@ people:
         icon_pack: fab
         link: https://github.com/niyiyu
     user_groups:
-      - Teaching Assistant
-      - Tutorial Lead
+      - Instructor
 
 
   # =============

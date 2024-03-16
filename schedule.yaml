@@ -7,12 +7,17 @@ tabs:
     description: Welcome and getting to know each other.
     time: 9:00 - 10:00
     leads:
-    - Marine Denolle, Carl Tape, Ian Wang, Felix Waldhauser, Ebru Bozdag
+    - Marine Denolle 
+    - Carl Tape
+    - Ian Wang
+    - Felix Waldhauser
+    - Ebru Bozdag
   - title: Best Practice for Open Science
     description: Learn about best practices for big-data and big simulation seismological research, research reproducibility, and open science.
     time: 10:00 - 10:50
     leads:
-    - Marine Denolle, Ian Wang
+    - Marine Denolle
+    - Ian Wang
   - title: BREAK
     description: Coffee break
     time: 10:50 - 11:00
@@ -27,7 +32,8 @@ tabs:
   - title: How to use academic software
     description: Best practice to use academic software and how to contribute to open source projects.
     time: 13:00 - 14:00
-    leads: Ian Wang
+    leads: 
+    - Ian Wang
   - title: HPC 101
     description: Get started with high-performance computing 
     time: 14:00 - 15:00
@@ -37,10 +43,12 @@ tabs:
     description: Get started with cloud computing 
     time: 15:00 - 16:00
     leads: 
-    - Marine Denolle, Yiyu Ni
+    - Marine Denolle
+    - Yiyu Ni
   - title: POSTER SESSION
     description: Group A presents their research projects at a poster session.
     time: 16:00 - 17:00
+
 - title: Day 2
   date: Tuesday 21 May
   contents:
