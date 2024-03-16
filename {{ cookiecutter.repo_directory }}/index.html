@@ -77,6 +77,11 @@
                             </a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link scrollto" href="#travel">
+                                Travel
+                            </a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link scrollto" href="#schedule">
                                 Schedule
                             </a>
@@ -157,24 +162,24 @@
         </div>
 
         {%- if 'links' in cookiecutter.about %}
-            <div class="hero-cta text-center mb-4">
-                <h4 class="mb-3 text-center">
+            <!-- <div class="hero-cta text-center mb-4"> -->
+                <!-- <h4 class="mb-3 text-center">
                     Past Events:
-                </h4>
-                {%- for link in cookiecutter.about.links %}
+                </h4> -->
+                <!-- {%- for link in cookiecutter.about.links %}
                     <a class="btn btn-primary btn-lg mb-3 mx-2"
                        href="{{ link.url }}"
                         {{ 'target="_blank"' if link.new_window == 'True' else '' }}
                     >
                         {{ link.title }}
                     </a>
-                {%- endfor %}
-            </div>
+                {%- endfor %} -->
+            <!-- </div> -->
         {%- endif %}
 
         <div id="countdown-intro" class="event-countdown text-center mb-4">
             <h4 class="countdown-intro mb-2 text-center">
-                {{ cookiecutter.banner.year }} Event Starts In:
+                {{ cookiecutter.banner.year }} SCOPED workshop Starts In:
             </h4>
             <div id="countdown-box"
                  class="countdown-box"
@@ -354,6 +359,26 @@
     <hr>
 </div>
 
+<!-- travel section -->
+{%- if cookiecutter.travel %}
+<section id="travel" class="travel section">
+    <div class="container">
+        <h3 class="section-heading text-center mb-3">Travel Information</h3>
+        <!-- <div class="section-intro text-left single-col-max mx-auto mb-5"> -->
+            <!-- {{ cookiecutter.travel['description'] }} -->
+        <!-- </div> -->
+        <div class="section-intro text-left single-col-max mx-auto mb-5">
+           <strong>Transportation: </strong> {{ cookiecutter.travel['transportation'] }}
+        </div>
+        <div class="section-intro text-left single-col-max mx-auto mb-5">
+           <strong>Address:</strong> {{ cookiecutter.travel['address'] }}
+        </div>
+    </div>
+</section>
+{%- endif %}
+
+
+<!-- team section -->
 {%- if cookiecutter.team %}
 <section id="team" class="team section">
     <div class="container">

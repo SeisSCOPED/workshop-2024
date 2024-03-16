@@ -28,6 +28,8 @@ about:
 applicant_info: The SCOPED CyberTraining for Seismology will take place in May 2024. We aim to lower barriers to advance computing. More information about applicant's selection below
 schedule:
   !include schedule.yaml
+travel:
+  !include travel.yaml
 team:
   !include team.yaml
 sponsors:
