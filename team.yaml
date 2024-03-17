@@ -148,3 +148,24 @@ people:
       - precision observational seismology
     user_groups:
       - Instructor
+
+
+    # =============
+    - title: Qibin Shi
+    avatar: https://avatars.githubusercontent.com/qibinshi
+    role: Postdoc 
+    organizations:
+      - name: University of Washington
+    bio: Qibin is an earthquake seismologist. He works on using observations and simulations to understand earthquake rupture. 
+      Currently he use on machine learning to study earthquakes.
+    expertise:
+      - Earthquake kinematics
+      - Waveform and ML
+      - Seismic cycles
+      - DAS
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/qibinshi
+    user_groups:
+      - Instructor
