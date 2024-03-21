@@ -49,46 +49,14 @@ tabs:
     description: Group A presents their research projects at a poster session.
     time: 16:00 - 17:00
 
+
 - title: Day 2
   date: Tuesday 21 May
-  contents:
-  - title: Cloud Seismology 101 
-    description: Learn about cloud computing for seismology, finding data, processing data, extracting features, ec2 instances, cloud storage - s3, databases. students develop mini projects on their own.
-    time: 9:00 - 10:50
-    leads:
-    - Marine Denolle
-    - Yiyu Ni
-    - Akash Kharita
-  - title: BREAK
-    time: 15:00 - 11:00
-  - title: MSPASS
-    description: data management at scale for seismology
-    time: 11:00 - 12:00
-    leads:
-    - Ian Wang
-  - title: LUNCH
-    description: Cohort Mixing luncheon (groups are shuffled)
-    time: 12:00 - 13:00
-  - title: Ambient noise seismology on the cloud
-    description: Use NoisePy for large-scale ambient noise seismology on the cloud
-    time: 13:00 - 16:00
-    leads:
-    - Marine Denolle
-    - Yiyu Ni
-    - Kuan-Fu Feng
-  - title: POSTER SESSION
-    description: Group B presents their research projects at a poster session.
-    time: 16:00 - 17:00
-
-
-- title: Day 3
-  date: Wednesday 22 May
   contents:
   - title: Wavefield Simulation 2D
     description: SPECFEM2D
     time: 9:00 - 10:00
     leads:
-    - Carl Tape
     - Bryant Chow
   - title: Wavefield Simulation 3D
     description: SPECFEM3D
@@ -96,59 +64,97 @@ tabs:
     leads:
     - Carl Tape
   - title: Global Wavefield Simulation
-    description: SPECFEM3D_Globe
+    description: SeisFlows
     time: 11:00 - 12:00
     leads:
-    - Ebru Bozdag
+    - Bryant Chow
   - title: LUNCH
+    description: Cohort Mixing luncheon (groups are shuffled)
     time: 12:00 - 13:00
-  - title: Source characterization 
-    description: MTUQ
+  - title: Source Estimation 
+    description: MTUQ, force and moment tensor inversion wityh FK-axisem-specfem3d Green's functions.
     time: 13:00 - 16:00
     leads:
     - Carl Tape
-    - Julien Thurien
+    - Julien Thurin
   - title: Open-Source Community Software
     description: Panel discussion on best practices for community-led open source software. 
+    time: 16:00 - 17:00
+
+
+- title: Day 3
+  date: Wednesday 22 May
+  contents:
+  - title: Earthquake Dynamics 
+    description: SeisSol
+    time: 9:00 - 12:00
+    leads:
+    - Alice Gabriel
+  - title: LUNCH
+    time: 12:00 - 13:00
+  - title: Specfem3D_globe
+    description: Global wavefield simulation
+    time: 14:00 - 16:00
+  - title: POSTER SESSION
+    description: Group B presents their research projects at a poster session.
     time: 16:00 - 17:00
 
 
 - title: Day 4
   date: Thursday 22 May
   contents:
-  - title: Earthquake Catalog Building
-    description: Build full earthquake catalogs with precise , double-difference relocation
+  - title: Earthquake Catalog Development
+    description: Combining machine-learning, template matching, and double-difference methods
     time: 9:00 - 12:00
     leads:
     - Felix Waldhauser
     - Eric Beause
-    - Theresa Sawi
     - Kaiwen Wang
-  - title: Full waveform inversion
-    description: SeisFlows
-    time: 13:00 - 16:00
+  - title: LUNCH
+    time: 12:00 - 13:00
+  - title: Cloud Computing Level 2
+    description: Cloud data management ,s3, aws batch, lambda services, coiled. Students will practice with a earthquake detection problem on California data.
+    time: 13:00 - 15:00
     leads:
-    - Ebru Bozdag
+    - Marine Denolle
+    - Yiyu Ni
+  - title: BigData Management - MsPass
+    description: Learn how to manage big data with MsPass
+    time: 15:00 - 16:00
+    leads:
+    - Ian Wang
+    - Gary Pavlis
   - title: Office Hours
+    description: Office hours and group discussion about welcoming new developers
     time: 16:00 - 17:00
+
+
 
 - title: Day 5
   date: Friday 24 May
   contents:
+  - title: Ambient noise seismology on the cloud
+    description: Use NoisePy for large-scale ambient noise seismology on the cloud
+    time: 9:00 - 12:00
+    leads:
+    - Marine Denolle
+    - Yiyu Ni
+    - Kuan-Fu Feng
+  - title: LUNCH
+    time: 12:00 - 13:00
   - title: Machine Learning workflows in Seismology
     description: Develop robust and reproducible machine learning workflows in ML seismology. Curate seismic data, clean up training data.
-    time: 9:00 - 10:30
+    time: 13:00 - 14:30
     leads:
     - Marine Denolle
     - Yiyu Ni
     - Akash Kharita
+    - Theresa Sawi
   - title: Denoising using deep learning
     description: Learn how to denoise seismic data using deep learning for broadband and Distributed acoustic sensing data
-    time: 10:30 - 12:00
+    time: 14:40 - 16:00
     leads:
     - Qibin Shi
-  - title: LUNCH
-    time: 12:00 - 13:00
   - title: Office Hours
     description: Office hours and group discussion about welcoming new developers
     time: 13:00 - 16:00
