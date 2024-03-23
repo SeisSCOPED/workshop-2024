@@ -64,7 +64,7 @@ tabs:
     leads:
     - Carl Tape
   - title: Global Wavefield Simulation
-    description: SeisFlows
+    description: Full waveform inversion with SeisFlows
     time: 11:00 - 12:00
     leads:
     - Bryant Chow
@@ -93,8 +93,8 @@ tabs:
   - title: LUNCH
     time: 12:00 - 13:00
   - title: Specfem3D_globe
-    description: Global wavefield simulation
-    time: 14:00 - 16:00
+    description: Global Seismology with SPECFEM3D_GLOBE, Forward and adjoint wavefield simulations on HPC - Frontera
+    time: 13:00 - 16:00
   - title: POSTER SESSION
     description: Group B presents their research projects at a poster session.
     time: 16:00 - 17:00
