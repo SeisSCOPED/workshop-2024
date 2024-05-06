@@ -2,7 +2,7 @@ repo_directory: html
 name: SCOPED Workshop 2024
 apply:
   url: 'https://forms.gle/HRFCSQRhVZL9ku1B7'
-  title: Application 
+  title: Application (funding application closed)
 hackweek_mission: "" # https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
 banner:
   description: CyberTraining for Seismology
@@ -19,7 +19,7 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2024-05-20T09:00:00-07:00"
 about:
-  description: SCOPED is a NSF-supported CyberInfrastructure project to develop a software platform for high-performance seismology (HPS) with big-data analysis for earthquake characterization and Earth imaging. The workshop will bring all project researchers and users together to deploy large-scale codes on the cloud and HPC. Come join us to build an HPS community!
+  description: SCOPED is a NSF-supported CyberInfrastructure project to develop a software platform for high-performance seismology (HPS) with big-data analysis for earthquake characterization and Earth imaging. The workshop will bring all project researchers and users together to deploy large-scale codes on the cloud and HPC. Come join us to build an HPS community! Funding applications are closed.
   learn_more: https://seisscoped.org/
   # links:
     # - url: '#'
