@@ -1,4 +1,4 @@
-timezone: UTC -7 (Pacific Daylight Time)
+timezone: UTC-7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
   date: Monday 20 May
@@ -72,7 +72,7 @@ tabs:
     description: Cohort Mixing luncheon (groups are shuffled)
     time: 12:00 - 13:00
   - title: Source Estimation 
-    description: MTUQ, force and moment tensor inversion wityh FK-axisem-specfem3d Green's functions.
+    description: MTUQ, force and moment tensor inversion with FK-axisem-specfem3d Green's functions.
     time: 13:00 - 16:00
     leads:
     - Carl Tape
@@ -113,7 +113,7 @@ tabs:
   - title: LUNCH
     time: 12:00 - 13:00
   - title: Cloud Computing Level 2
-    description: Cloud data management ,s3, aws batch, lambda services, coiled. Students will practice with a earthquake detection problem on California data.
+    description: Cloud data management, EC2, S3. Students will practice with a earthquake detection problem on California data.
     time: 13:00 - 15:00
     leads:
     - Marine Denolle
@@ -127,8 +127,6 @@ tabs:
   - title: Office Hours
     description: Office hours and group discussion about welcoming new developers
     time: 16:00 - 17:00
-
-
 
 - title: Day 5
   date: Friday 24 May
