@@ -109,7 +109,7 @@ tabs:
   date: Thursday 22 May
   contents:
   - title: Earthquake Catalog Development
-    description: Combining machine-learning, template matching, and double-difference methods
+    description: Combining machine-learning, cross-correlation, and double-difference methods
     time: 9:00 - 12:00
     leads:
     - Felix Waldhauser
