@@ -2,7 +2,7 @@ repo_directory: html
 name: SCOPED Workshop 2024
 apply:
   url: 'https://forms.gle/HRFCSQRhVZL9ku1B7'
-  title: Application (funding application closed)
+  title: Application (until May 16)
 hackweek_mission: "" # https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
 banner:
   description: CyberTraining for Seismology
