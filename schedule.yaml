@@ -62,8 +62,8 @@ tabs:
     description: SPECFEM3D
     time: 10:00 - 11:00
     leads:
-    - Carl Tape
-  - title: Global Wavefield Simulation
+    - Bryan Chow
+  - title: SeisFlows
     description: Full waveform inversion with SeisFlows
     time: 11:00 - 12:00
     leads:
@@ -75,8 +75,8 @@ tabs:
     description: MTUQ, force and moment tensor inversion with FK-axisem-specfem3d Green's functions.
     time: 13:00 - 16:00
     leads:
-    - Carl Tape
     - Julien Thurin
+    - Carl Tape
   - title: Open-Source Community Software
     description: Panel discussion on best practices for community-led open source software. 
     time: 16:00 - 17:00
@@ -95,6 +95,11 @@ tabs:
   - title: Specfem3D_globe
     description: Global Seismology with SPECFEM3D_GLOBE, Forward and adjoint wavefield simulations on HPC - Frontera
     time: 13:00 - 16:00
+    leads:
+    - Ebru Bozdag
+    - Masaru Nagaso
+    - Ridvan Orsvuran
+    - Ayon Ghosh
   - title: POSTER SESSION
     description: Group B presents their research projects at a poster session.
     time: 16:00 - 17:00
@@ -108,7 +113,7 @@ tabs:
     time: 9:00 - 12:00
     leads:
     - Felix Waldhauser
-    - Eric Beause
+    - Eric Beauce
     - Kaiwen Wang
   - title: LUNCH
     time: 12:00 - 13:00
@@ -116,8 +121,8 @@ tabs:
     description: Cloud data management, EC2, S3. Students will practice with a earthquake detection problem on California data.
     time: 13:00 - 15:00
     leads:
-    - Marine Denolle
     - Yiyu Ni
+    - Marine Denolle
   - title: BigData Management - MsPass
     description: Learn how to manage big data with MsPass
     time: 15:00 - 16:00
@@ -135,19 +140,19 @@ tabs:
     description: Use NoisePy for large-scale ambient noise seismology on the cloud
     time: 9:00 - 12:00
     leads:
-    - Marine Denolle
     - Yiyu Ni
     - Kuan-Fu Feng
+    - Marine Denolle
   - title: LUNCH
     time: 12:00 - 13:00
   - title: Machine Learning workflows in Seismology
     description: Develop robust and reproducible machine learning workflows in ML seismology. Curate seismic data, clean up training data.
     time: 13:00 - 14:30
     leads:
-    - Marine Denolle
     - Yiyu Ni
     - Akash Kharita
     - Theresa Sawi
+    - Marine Denolle
   - title: Denoising using deep learning
     description: Learn how to denoise seismic data using deep learning for broadband and Distributed acoustic sensing data
     time: 14:40 - 16:00
