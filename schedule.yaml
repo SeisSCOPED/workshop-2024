@@ -57,7 +57,7 @@ tabs:
     description: SPECFEM2D
     time: 9:00 - 10:00
     leads:
-    - Bryant Chow
+    - Bryan Chow
   - title: Wavefield Simulation 3D
     description: SPECFEM3D
     time: 10:00 - 11:00
@@ -67,7 +67,7 @@ tabs:
     description: Full waveform inversion with SeisFlows
     time: 11:00 - 12:00
     leads:
-    - Bryant Chow
+    - Bryan Chow
   - title: LUNCH
     description: Cohort Mixing luncheon (groups are shuffled)
     time: 12:00 - 13:00
@@ -76,7 +76,6 @@ tabs:
     time: 13:00 - 16:00
     leads:
     - Julien Thurin
-    - Carl Tape
   - title: Open-Source Community Software
     description: Panel discussion on best practices for community-led open source software. 
     time: 16:00 - 17:00
