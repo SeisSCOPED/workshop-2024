@@ -57,17 +57,17 @@ tabs:
     description: SPECFEM2D
     time: 9:00 - 10:00
     leads:
-    - Bryan Chow
+    - Bryant Chow
   - title: Wavefield Simulation 3D
     description: SPECFEM3D
     time: 10:00 - 11:00
     leads:
-    - Bryan Chow
+    - Bryant Chow
   - title: SeisFlows
     description: Full waveform inversion with SeisFlows
     time: 11:00 - 12:00
     leads:
-    - Bryan Chow
+    - Bryant Chow
   - title: LUNCH
     description: Cohort Mixing luncheon (groups are shuffled)
     time: 12:00 - 13:00
