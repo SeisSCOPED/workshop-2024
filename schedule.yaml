@@ -118,8 +118,8 @@ tabs:
     - Kaiwen Wang
   - title: LUNCH
     time: 12:00 - 13:00
-  - title: Cloud Computing Level 2
-    description: Cloud data management, EC2, S3. Students will practice with a earthquake detection problem on California data.
+  - title: Ambient noise seismology on the cloud
+    description: Use NoisePy for large-scale ambient noise seismology on the cloud
     time: 13:00 - 15:00
     leads:
     - Yiyu Ni
@@ -137,8 +137,8 @@ tabs:
 - title: Day 5
   date: Friday 24 May
   contents:
-  - title: Ambient noise seismology on the cloud
-    description: Use NoisePy for large-scale ambient noise seismology on the cloud
+  - title: Cloud Computing Level 2 
+    description: Cloud data management, EC2, S3. Students will practice with a earthquake detection problem on California data. 
     time: 9:00 - 12:00
     leads:
     - Yiyu Ni
