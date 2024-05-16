@@ -41,6 +41,7 @@ tabs:
     - Ian Wang
   - title: Cloud 101
     description: Get started with cloud computing 
+    resources: https://seisscoped.org/HPS-book/chapters/cloud/AWS_101.html
     time: 15:00 - 16:00
     leads: 
     - Marine Denolle
