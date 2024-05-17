@@ -19,6 +19,8 @@ tabs:
     - Marine Denolle
     - Ian Wang
     resources:
+      - title: "Install Docker"
+        url: https://docs.google.com/presentation/d/1sVVVxdYLT3_shxe49ZqjlCeuK0562pCPUanETum3Ypk/edit?usp=sharing
       - title: "Best Practice for Open Science"
         url: https://docs.google.com/presentation/d/1py1Ln1U9roeTAdhqJbll2Ugs6x_uAXrUXbpIB4Fx3TE/edit?usp=sharing
   - title: BREAK
