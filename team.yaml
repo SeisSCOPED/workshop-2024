@@ -151,6 +151,25 @@ people:
 
 
     # =============
+  - title: Kuan-Fu Feng
+    avatar: https://avatars.githubusercontent.com/kuanfufeng
+    role: Postdoc 
+    organizations:
+      - name: University of Washington
+    bio: Kuan-Fu is a observational seismologist who studies temporal changes in the earth structure due to earthquake damange and hydrological phenomena.
+    expertise:
+      - ambient noise seismology
+      - cloud computing
+      - distributed acoustic sensing
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/kuanfufeng
+    user_groups:
+      - Instructor
+
+
+    # =============
   - title: Qibin Shi
     avatar: https://avatars.githubusercontent.com/qibinshi
     role: Postdoc 
@@ -186,5 +205,26 @@ people:
       - icon: github
         icon_pack: fab
         link: https://github.com/Akashkharita
+    user_groups:
+      - Instructor
+
+  - title: Theresa Sawi
+    avatar: https://github.com/tsawi/tsawi.github.io/blob/main/headshot.jpeg?raw=true
+    role: Postdoc
+    organizations:
+      - name: U.S Geological Survey (formerly Lamont-Doherty Earth Observatory)
+    bio: Research interests include source processes of glacial and terrestrial earthquakes, DAS applications for earthquake early warning, and machine learning for seismology.
+    expertise:
+      - Machine Learning
+      - Cryoseismology
+      - Earthquake Early Warning
+      - Distributed Acoustic Sensing (DAS)
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/tsawi
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/Specufex/
     user_groups:
       - Instructor

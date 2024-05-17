@@ -18,6 +18,9 @@ tabs:
     leads:
     - Marine Denolle
     - Ian Wang
+    resources:
+      - title: "Best Practice for Open Science"
+        url: https://docs.google.com/presentation/d/1py1Ln1U9roeTAdhqJbll2Ugs6x_uAXrUXbpIB4Fx3TE/edit?usp=sharing
   - title: BREAK
     description: Coffee break
     time: 10:50 - 11:00
@@ -44,10 +47,12 @@ tabs:
     resources:
       - title: "AWS 101 - Introduction to AWS"
         url: https://seisscoped.org/HPS-book/chapters/cloud/AWS_101.html
+      - title: "Cloud Concepts"
+        url: https://docs.google.com/presentation/d/1MCHVQ0rufcmIuExqniC2F2_SHJlcMRkO1N64Fe2EfYY/edit?usp=sharing
     time: 15:00 - 16:00
     leads: 
-    - Marine Denolle
     - Yiyu Ni
+    - Marine Denolle
   - title: POSTER SESSION
     description: Group A presents their research projects at a poster session.
     time: 16:00 - 17:00
@@ -109,7 +114,7 @@ tabs:
 
 
 - title: Day 4
-  date: Thursday 22 May
+  date: Thursday 23 May
   contents:
   - title: Earthquake Catalog Development
     description: Combining machine-learning, cross-correlation, and double-difference methods
