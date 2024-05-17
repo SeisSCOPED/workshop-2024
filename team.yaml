@@ -228,3 +228,20 @@ people:
         link: https://github.com/Specufex/
     user_groups:
       - Instructor
+
+        # =============
+  - title: Kaiwen Wang
+    avatar: https://avatars.githubusercontent.com/kaiwenwang233
+    role: Postdoc
+    organizations:
+    - name: LDEO, Columbia University
+    bio: Kaiwen is a seismologist and a data scientist. Her research focuses on machine-learning based seismic processing and source characterization for tectonic and volcanic earthquakes.
+    expertise:
+    - machine learning
+    - earthquake detection and location
+    social:
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/kaiwenwang233
+    user_groups:
+    - Instructor
