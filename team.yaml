@@ -33,24 +33,6 @@ people:
 
 
   # =============
-  - title: Yiyu Ni
-    avatar: https://avatars.githubusercontent.com/niyiyu
-    role: Graduate Student
-    organizations:
-      - name: University of Washington
-    bio: 
-    expertise:
-      - ML in seismology
-      - Cloud computing
-    social:
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/niyiyu
-    user_groups:
-      - Instructor
-
-
-  # =============
   - title: Ian Wang
     avatar: https://www.tacc.utexas.edu/media/filer_public_thumbnails/filer_public/fc/0a/fc0a1b20-113a-4cf2-bcb2-bd746b2f2d78/ian-wang.jpg__500x625_q85_subsampling-2.jpg
     role: Manager of HPC Performance & Architectures
@@ -169,6 +151,25 @@ people:
       - Instructor
 
 
+# =============
+  - title: Yiyu Ni
+    avatar: https://avatars.githubusercontent.com/niyiyu
+    role: Graduate Student
+    organizations:
+      - name: University of Washington
+    bio: 
+    expertise:
+      - ML in seismology
+      - Cloud computing
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/niyiyu
+    user_groups:
+      - Instructor
+
+
+
     # =============
   - title: Qibin Shi
     avatar: https://avatars.githubusercontent.com/qibinshi
@@ -188,6 +189,7 @@ people:
         link: https://github.com/qibinshi
     user_groups:
       - Instructor
+
 
 
     # =============
