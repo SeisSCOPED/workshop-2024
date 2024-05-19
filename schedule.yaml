@@ -57,6 +57,9 @@ tabs:
     - Marine Denolle
   - title: POSTER SESSION
     description: Group A presents their research projects at a poster session.
+    resources:
+      - title: "Poster Group Assignement"
+        url: https://docs.google.com/spreadsheets/d/1nC-UY0l_UnBYVViqaUcZQpUtCVeWVIMLPtczpuR9Jdw/edit?usp=sharing
     time: 16:00 - 17:00
 
 
@@ -112,6 +115,9 @@ tabs:
     - Ayon Ghosh
   - title: POSTER SESSION
     description: Group B presents their research projects at a poster session.
+    resources:
+      - title: "Poster Group Assignement"
+        url: https://docs.google.com/spreadsheets/d/1nC-UY0l_UnBYVViqaUcZQpUtCVeWVIMLPtczpuR9Jdw/edit?usp=sharing
     time: 16:00 - 17:00
 
 
