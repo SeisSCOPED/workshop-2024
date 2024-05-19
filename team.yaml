@@ -79,8 +79,6 @@ people:
     user_groups:
       - Instructor
 
-
-
   - title: Bryant Chow
     avatar: https://github.com/bch0w/bch0w.github.io/blob/master/images/headshot.jpeg
     role: Instructor for SPECFEM
@@ -102,6 +100,29 @@ people:
     user_groups:
       - Instructor
 
+
+  # =============
+  - title: Alice Gabriel
+    avatar: https://github.com/SeisSCOPED/HPS/blob/main/assets/AliceGabriel.jpg?raw=true
+    role: Instructor of SeisSol
+    organizations:
+      - name: University of California - San Diego
+      - name: Ludwig-Maximilians-Universität (LMU) München
+    bio: 
+    expertise:
+      - open science
+      - community building
+      - high-performance computing
+      - earthquake dynamics
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/AliceGabriel
+    user_groups:
+      - Organizer Lead
+      - Tutorial Lead
+  # =============
+  
 
   # =============
   - title: Ebru Bozdag

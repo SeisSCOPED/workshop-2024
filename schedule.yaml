@@ -138,6 +138,7 @@ tabs:
     time: 13:00 - 15:00
     leads:
     - Yiyu Ni
+    - Kuan-Fu Feng
     - Marine Denolle
   - title: BigData Management - MsPass
     description: Learn how to manage big data with MsPass
@@ -168,7 +169,6 @@ tabs:
     - Yiyu Ni
     - Akash Kharita
     - Theresa Sawi
-    - Marine Denolle
   - title: Denoising using deep learning
     description: Learn how to denoise seismic data using deep learning for broadband and Distributed acoustic sensing data
     time: 14:40 - 16:00
@@ -176,4 +176,4 @@ tabs:
     - Qibin Shi
   - title: Office Hours
     description: Office hours and group discussion about welcoming new developers
-    time: 13:00 - 16:00
+    time: 16:00 - 17:00
