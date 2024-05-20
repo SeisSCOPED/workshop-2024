@@ -49,8 +49,11 @@ tabs:
     - Ian Wang
     - Gary Pavlis
     resources:
+      - title: "Open Source Software #1"
+        url: https://drive.google.com/file/d/127AJzqe5DS70q2eUouL73O7sx50mwYWF/view?usp=drive_link
       - title: "Open Source Software #2"
         url: https://drive.google.com/file/d/1sQCx4K_s0AZSXpcGwRRLhASeY-Hxl5b5/view?usp=drive_link
+
   - title: HPC 101
     description: Get started with high-performance computing 
     time: 14:00 - 15:00
