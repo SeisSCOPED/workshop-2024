@@ -36,6 +36,9 @@ tabs:
     time: 11:00 - 12:00
     leads:
     - Ian Wang
+    resources:
+      - title: "Slides"
+        url: https://drive.google.com/file/d/1xbWPZkYv8TYMldDt9Lxc3HwLK-aNKuv_/view?usp=drive_link
   - title: LUNCH
     description: Cohort building luncheon
     time: 12:00 - 13:00
@@ -45,12 +48,18 @@ tabs:
     leads: 
     - Ian Wang
     - Gary Pavlis
+    resources:
+      - title: "Open Source Software #2"
+        url: https://drive.google.com/file/d/1sQCx4K_s0AZSXpcGwRRLhASeY-Hxl5b5/view?usp=drive_link
   - title: HPC 101
     description: Get started with high-performance computing 
     time: 14:00 - 15:00
     leads: 
     - Ian Wang
     - Gary Pavlis
+    resources:
+      - title: "HPC Concepts slides"
+        url: https://drive.google.com/file/d/1OlEBVN2c3zOY7ZaRcQxQm83b_K1er1i2/view?usp=drive_link
   - title: Cloud 101
     description: Get started with cloud computing 
     resources:
