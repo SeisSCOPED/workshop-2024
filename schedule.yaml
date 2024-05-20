@@ -15,7 +15,7 @@ tabs:
     - Bryant Chow
     - Alice Gabriel
     resources:
-    - url: https://docs.google.com/presentation/d/1yeZFbfmxiEjeoyOJu6oRFrsq8JaXeS8oLhYHU1_x6v8/edit?usp=sharing
+      - url: https://docs.google.com/presentation/d/1yeZFbfmxiEjeoyOJu6oRFrsq8JaXeS8oLhYHU1_x6v8/edit?usp=sharing
   - title: Best Practice for Open Science
     description: Learn about best practices for big-data and big simulation seismological research, research reproducibility, and open science.
     time: 10:00 - 10:50
