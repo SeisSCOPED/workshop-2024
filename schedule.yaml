@@ -43,11 +43,13 @@ tabs:
     time: 13:00 - 14:00
     leads: 
     - Ian Wang
+    - Gary Pavlis
   - title: HPC 101
     description: Get started with high-performance computing 
     time: 14:00 - 15:00
     leads: 
     - Ian Wang
+    - Gary Pavlis
   - title: Cloud 101
     description: Get started with cloud computing 
     resources:
