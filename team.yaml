@@ -268,3 +268,18 @@ people:
       link: https://github.com/kaiwenwang233
     user_groups:
     - Instructor
+
+  - title: Jeremy Wing Ching Wong
+    avatar: https://avatars.githubusercontent.com/jwjeremy
+    role: Graduate student
+    organizations:
+      - name: University of California - San Diego
+    bio: Jeremy is a graduate student focusing on both imaging and simulation large earthquakes.
+    expertise:
+      - earthquake kinematics and dynamics
+    social:
+      - icon: github
+        icon_pack: fab
+        link: https://sites.google.com/view/jeremywong/home
+    user_groups:
+      - Instructor
