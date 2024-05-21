@@ -77,7 +77,7 @@ tabs:
   - title: POSTER SESSION
     description: Group A presents their research projects at a poster session.
     resources:
-      - title: "Poster Group Assignement"
+      - title: "Poster Group Assignment"
         url: https://docs.google.com/spreadsheets/d/1nC-UY0l_UnBYVViqaUcZQpUtCVeWVIMLPtczpuR9Jdw/edit?usp=sharing
     time: 16:00 - 17:00
 
@@ -135,7 +135,7 @@ tabs:
   - title: POSTER SESSION
     description: Group B presents their research projects at a poster session.
     resources:
-      - title: "Poster Group Assignement"
+      - title: "Poster Group Assignment"
         url: https://docs.google.com/spreadsheets/d/1nC-UY0l_UnBYVViqaUcZQpUtCVeWVIMLPtczpuR9Jdw/edit?usp=sharing
     time: 16:00 - 17:00
 
@@ -185,7 +185,6 @@ tabs:
     description: Develop robust and reproducible machine learning workflows in ML seismology. Curate seismic data, clean up training data.
     time: 13:00 - 14:30
     leads:
-    - Yiyu Ni
     - Akash Kharita
     - Theresa Sawi
   - title: Denoising using deep learning
