@@ -152,13 +152,11 @@ tabs:
     - Kaiwen Wang
   - title: LUNCH
     time: 12:00 - 13:00
-  - title: Ambient noise seismology on the cloud
-    description: Use NoisePy for large-scale ambient noise seismology on the cloud
+  - title: Unsupervised Machine Learning for Seismology in the Cloud
+    description: SpecUFEx tutorial for event detection 
     time: 13:00 - 15:00
     leads:
-    - Yiyu Ni
-    - Kuan-Fu Feng
-    - Marine Denolle
+    - Theresa Sawi
   - title: BigData Management - MsPass
     description: Learn how to manage big data with MsPass
     time: 15:00 - 16:00
@@ -172,8 +170,8 @@ tabs:
 - title: Day 5
   date: Friday 24 May
   contents:
-  - title: Cloud Computing Level 2 
-    description: Cloud data management, EC2, S3. Students will practice with a earthquake detection problem on California data. 
+  - title: Ambient Noise Seismology in the Cloud
+    description: Use NoisePy for large-scale ambient noise seismology on the cloud
     time: 9:00 - 12:00
     leads:
     - Yiyu Ni
@@ -181,15 +179,14 @@ tabs:
     - Marine Denolle
   - title: LUNCH
     time: 12:00 - 13:00
-  - title: Machine Learning workflows in Seismology
-    description: Develop robust and reproducible machine learning workflows in ML seismology. Curate seismic data, clean up training data.
+  - title: Machine Learning Workflows for Seismology in the Cloud
+    description: Develop robust and reproducible machine learning workflows in ML seismology.
     time: 13:00 - 14:30
     leads:
     - Akash Kharita
-    - Theresa Sawi
   - title: Denoising using deep learning
     description: Learn how to denoise seismic data using deep learning for broadband and Distributed acoustic sensing data
-    time: 14:40 - 16:00
+    time: 14:30 - 16:00
     leads:
     - Qibin Shi
   - title: Office Hours
