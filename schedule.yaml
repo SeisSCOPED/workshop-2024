@@ -122,6 +122,21 @@ tabs:
     leads:
     - Alice Gabriel
     - Jeremy Wing Ching Wong
+    resources:
+      - title: "SeisSol Set Up"
+        url: https://drive.google.com/file/d/1gmntH5dQ68uzvjy4cvlDkDuUMU32KErW/view?usp=drive_link
+      - title: "SeisSol Introduction Gabriel"
+        url: https://drive.google.com/file/d/1lGei2_iWXU5fR_qdpJQ50ZTFc8RCTalz/view?usp=drive_link
+      - title: "SeisSol - 101 Ramos"
+        url: https://drive.google.com/file/d/1ZpeziL0EVzYqIHkqMTGFEdro9VGa-TOD/view?usp=drive_link
+      - title: "SeisSol TPV Tutorial"
+        url: https://drive.google.com/file/d/1ti-jeOoQ2B7OJgMq458tUFEmQ825yyEd/view?usp=drive_link
+      - title: "SeiSol Northridge Example"
+        url:  https://drive.google.com/file/d/108bKqnXelvI6c8bUztrN3wQ1f7CWPpK7/view?usp=drive_link
+      - title: "SeisSol Northridge Examople"
+        url: https://drive.google.com/file/d/12dpi3o7kXz-Cm7aJHAW10uZad7lHRa27/view?usp=drive_link
+      - title: "SeisSol Kaikoura Example"
+        url: https://drive.google.com/file/d/1Qp8vsIzgEpKI2jJHWKbsnO1PTyVCx3op/view?usp=drive_link
   - title: LUNCH
     time: 12:00 - 13:00
   - title: Specfem3D_globe
@@ -170,9 +185,13 @@ tabs:
 - title: Day 5
   date: Friday 24 May
   contents:
+  - title: Group Photo
+    description: Come for the group photo!
+    time: 9:00 - 9:20
+    leads:
   - title: Ambient Noise Seismology in the Cloud
     description: Use NoisePy for large-scale ambient noise seismology on the cloud
-    time: 9:00 - 12:00
+    time: 9:20 - 12:00
     leads:
     - Yiyu Ni
     - Kuan-Fu Feng
