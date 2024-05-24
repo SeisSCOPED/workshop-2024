@@ -108,6 +108,9 @@ tabs:
     time: 13:00 - 16:00
     leads:
     - Julien Thurin
+    resources:  
+      - title: "MTUQ - Google Colab Tutorial"
+        url: https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp#scrollTo=1uCfXON4S2Xj
   - title: Open-Source Community Software
     description: Panel discussion on best practices for community-led open source software. 
     time: 16:00 - 17:00
@@ -147,6 +150,9 @@ tabs:
     - Masaru Nagaso
     - Ridvan Orsvuran
     - Ayon Ghosh
+    resources:
+     - title: "SPECFEM3D_GLOBE"
+       url: https://drive.google.com/file/d/1_eMVOifEFUE9ZiGV0iTi5t9rjTqick0O/view?usp=drive_link
   - title: POSTER SESSION
     description: Group B presents their research projects at a poster session.
     resources:
@@ -163,8 +169,10 @@ tabs:
     time: 9:00 - 12:00
     leads:
     - Felix Waldhauser
-    - Eric Beauce
     - Kaiwen Wang
+    resources:
+      - title: "ML workflows for earthquake catalog building"
+        url: https://drive.google.com/file/d/18lzzL8w8jsULGddU3JYltwMaf_s9vz9J/view?usp=drive_link
   - title: LUNCH
     time: 12:00 - 13:00
   - title: Unsupervised Machine Learning for Seismology in the Cloud
@@ -172,6 +180,9 @@ tabs:
     time: 13:00 - 15:00
     leads:
     - Theresa Sawi
+    resources:
+      - title: "SpecUFEx Tutorial"
+        url: https://drive.google.com/file/d/1Gwiosfj4KpiUkPLO3Ck9PKd-GREDiLj-/view?usp=drive_link
   - title: BigData Management - MsPass
     description: Learn how to manage big data with MsPass
     time: 15:00 - 16:00
