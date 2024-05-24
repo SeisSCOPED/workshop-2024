@@ -188,7 +188,7 @@ tabs:
   - title: Group Photo
     description: Come for the group photo!
     time: 9:00 - 9:20
-    leads:
+
   - title: Ambient Noise Seismology in the Cloud
     description: Use NoisePy for large-scale ambient noise seismology on the cloud
     time: 9:20 - 12:00
