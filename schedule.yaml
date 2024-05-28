@@ -90,6 +90,9 @@ tabs:
     time: 9:00 - 10:00
     leads:
     - Bryant Chow
+    resources:
+      - title: "SPECFEM2D"
+        url: https://github.com/adjtomo/adjdocs/blob/main/workshops/2024-5-21_scoped_uw/readme.md
   - title: Wavefield Simulation 3D
     description: SPECFEM3D
     time: 10:00 - 11:00
